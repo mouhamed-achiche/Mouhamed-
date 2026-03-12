@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **ma.achiche199@gmail.com**
 
-- 📄 Know about my experiences [I'm fullstack developper i can](I'm fullstack developper i can)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
